@@ -7,4 +7,4 @@ licensing:
  * all other textures are from [h-v-smacker's version of technic](https://github.com/h-v-smacker/technic) ([CC-by-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/))
  * code provided under the terms of [LGPLv3](https://www.gnu.org/licenses/lgpl-3.0.html)
 
-this is "my" first minetest mod, I hope you like it, any help would be appreciated
+this is "my" first minetest mod, I hope you like it, PRs are welcome
